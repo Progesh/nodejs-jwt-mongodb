@@ -1,4 +1,4 @@
-# Generating web token for accessing RESTfull APIs
+# Generating web token for accessing RESTful APIs
 
 Installation
 
