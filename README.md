@@ -20,6 +20,8 @@ bash
 git clone https://github.com/Progesh/nodejs-jwt-mongodb.git
 cd nodejs-jwt-mongodb
 
+<pre> ```bash git clone https://github.com/Progesh/nodejs-jwt-mongodb.git cd nodejs-jwt-mongodb ``` </pre>
+
 2. Install the dependencies:
 
 bash
