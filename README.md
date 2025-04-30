@@ -15,27 +15,25 @@ This project provides a foundational setup for generating JSON Web Tokens (JWT) 
 ## Installation
 
 1. Clone the repository:
-
-bash
+<pre>
 git clone https://github.com/Progesh/nodejs-jwt-mongodb.git
-cd nodejs-jwt-mongodb
-
-<pre> ```bash git clone https://github.com/Progesh/nodejs-jwt-mongodb.git cd nodejs-jwt-mongodb ``` </pre>
+cd nodejs-jwt-mongodb  
+</pre>
 
 2. Install the dependencies:
-
-bash
-npm install
+<pre>
+npm install  
+</pre>
 
 3. Start the MongoDB server:
-
-bash
-mongod
+<pre>
+mongod  
+</pre>
 
 4. Start the Node.js server:
-
-bash
-node server.js
+<pre>
+node server.js  
+</pre>
 
 5. Test the APIs using tools like Postman.
 
